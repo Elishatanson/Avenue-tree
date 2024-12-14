@@ -1,4 +1,4 @@
-# Academic Project Page Template
+# Avenue tree
 This is an academic paper project page template.
 
 
